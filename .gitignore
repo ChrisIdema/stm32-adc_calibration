@@ -1,0 +1,7 @@
+.mxproject
+.settings/
+Debug*
+Release/
+*.cfg
+*.pdf
+
